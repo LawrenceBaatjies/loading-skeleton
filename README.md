@@ -1,16 +1,17 @@
 # Loading-skeleton
 
-A Simple skelton loading page.
+# A Simple skeleton loading page
  That makes your site so much more preferment felling for the user even with out it being any faster that looks really good and professional.
-and very simple to implement.
+ and very simple to implement.
 
-Lets get started.
+#Always Open Source.
 
-Always Open Source.
-Fork:
-Clone:
+#Lets get started.
+#Fork:
+#Clone:
 
-Enjoy!!(☞ﾟヮﾟ)☞
+#Enjoy!!(☞ﾟヮﾟ)☞
+<hr/>
 <h3> Want To Help Support My Coding Journey??? 👉👈</h3>   <img align="right" src="https://media1.giphy.com/media/GNBCVMv6XobnMUMYJG/giphy.gif?cid=ecf05e47jua2xa6j7c2kkn9nxthaf08xra2etmd9jy1k5vs0&rid=giphy.gif&ct=g" width="260px">
 <!--  <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="lawrence.fred" data-description="Support me on Buy me a coffee!" data-message="Your support is Welcome" data-color="#BD5FFF" data-position="Right" data-x_margin="18" data-y_margin="18"></script> -->
  
