@@ -1,6 +1,6 @@
 .skeleton {
   opacity: .7;
-  animation: skeleton-loading 1s linear infinite alternate;
+  animation: skeleton-loading 2s linear infinite alternate;
 }
 
 skeleton-text {
@@ -17,23 +17,20 @@ skeleton-text {
 
 @keyframes skeleton-loading {
   0% {
-    background-color: hsl(200, 20%, 70%);
+    background-color: hsl(200, 19%, 88%);
   }
 
   100% {
-    background-color: hsl(200, 20%, 95%);
+    background-color: hsl(0, 6%, 93%);
   }
 }
 
-
-
-
-
 .grid {
+  margin-top: 0px;
   display: grid;
   gap: 1rem;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  padding: 1rem;
+  padding: 2rem;
 }
 
 .card {
