@@ -1,4 +1,6 @@
-# Loading-skeleton
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 40%" />
+</br>
+<hr/>
 
 # A Simple skeleton loading page
  That makes your site so much more preferment felling for the user even with out it being any faster that looks really good and professional.
